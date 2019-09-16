@@ -1,0 +1,14 @@
+Class: Chair
+
+Attributes:
+color (string)
+material (string)
+weight (integer)
+weightLimit (integer)
+rollable (boolean)
+
+Methods:
+changeColor (changes color attribute)
+breakChair (changes weightLimit to 0 and rollable to false)
+sitOn (subtracts a persons weight from weightLimit.  If it reaches 0 or less, breakChair)
+addWheels (changes rollable to true)
