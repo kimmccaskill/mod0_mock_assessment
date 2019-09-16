@@ -1,0 +1,50 @@
+Do Laundry
+1. Wash clothes
+  1.1 Collect clothes
+    1.1.1 Grab hamper from closet
+    1.1.2 Bring to washing machine
+  1.2 Start wash cycle
+    1.2.1 Decide on water temperature
+    1.2.2 Decide on delicacy setting
+    1.2.3 Throw clothes in washing machine
+    1.2.4 Add detergent
+    1.2.5 Press Start cycle
+  1.3 Wait for timer
+2. Dry clothes
+  2.1 Put clothes in dryer
+    2.1.1 Remove clothes from washing machine
+    2.1.2 Place into dryer
+  2.2 Start drying cycle
+    2.2.1 Place dryer sheets into dryer
+    2.2.2 Decide on heating temperature
+    2.2.3 Decide on tumble setting
+    2.2.4 Press Start Cycle
+  2.3 Remove clothes
+    2.3.1 Remove clothes from dryer
+    2.3.2 Lay out clothes on bed for easy fold and hang
+3. Put up clothes
+  3.1 Separate clothes
+    3.1.1 Lay shirts to be hung flat and on top of each other on one side of bed
+    3.1.2 Lay clothes to be folded on other side of bed
+  3.2 Fold clothes
+    3.1.1 Grab socks
+      3.1.1.1 For dress socks, find matching pair and fold in half
+      3.1.1.2 For all others, lay flat on top of each other in stack
+    3.1.2 Grab underwear
+      3.1.2.1 Fold in half
+      3.1.2.2 Roll up
+    3.1.3 Grab shirts
+      3.1.3.1 Fold in half hotdog style
+      3.1.3.2 Fold that in half hamburger style
+      3.1.3.3 Fold that in half hotdog style
+      3.1.3.4 Stack neatly
+    3.1.4 Grab pants
+      3.1.4.1 Fold in half from center closing the front
+      3.1.4.2 Fold down in half twice
+      3.1.4.3 Stack neatly
+    3.1.5 Place clothes in drawer
+  3.3 Hang clothes
+    3.3.1 Count shirts
+    3.3.2 Grab appropriate amount of hangars
+    3.3.3 Stick hangar in open collar of shirts
+    3.3.4 Hang in closet
