@@ -1,0 +1,17 @@
+Instance: Office Chair
+
+Attributes:
+color : "Black"
+material : "Plastic"
+weight : 30
+weightLimit : 280
+rollable : true
+
+Instance: Dining Room breakChair
+
+Attributes
+color : "Brown"
+material : "Wood"
+weight : 48
+weightLimit : 320
+rollable : false
